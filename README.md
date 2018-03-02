@@ -1,5 +1,5 @@
 # Fusion-360-API
-Fusion API python scripts
+Fusion API python scripts by Gabor Balint
 
 These are API scripts for Fusion 360, feel free to use them as you wish!
 
